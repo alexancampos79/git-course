@@ -106,7 +106,7 @@
                 <p>Cafe Fontenebleu <sup>&reg;</sup></p>
             </article>
 
-            <div id="apoio">
+            <!-- adicionar div de apoio -->
                 <section>
                     <h2>Mapa</h2>
                     <img src="../imagens/mapa_como_chegar.gif">
@@ -121,12 +121,12 @@
                     <h2>Vinho</h2>
                     <img src="../imagens/vinhos.jpg" width="275" height="163" alt=""/> 
                 </section>
-            </div>>
+            <!-- finalizar div de apoio -->
 
-            <footer>
+            <!-- adicionar rodape -->
                 <p>Cafe Fontenebleu - Rua Ernesto de Paula Santos, 187 Sala 506 - Recife-PE</p>
                 <p><small>&copy Copyright 2015 - iMedia Brasil todos os direitos reservados.</small></p>
-            </footer>
+            <!-- finalizar rodape -->
             
 		  </main>
     </body>
